@@ -1,7 +1,7 @@
 # UR5e Tutorial (Ubuntu 24.04)
 
 This guide walks you through the steps to connect and control a UR5e robot from your Ubuntu 24.04 laptop.
-
+Useful link: https://sdurobotics.gitlab.io/ur_rtde/examples/examples.html
 ---
 
 ## 1. Robot Network Setup (UR5e Teach Pendant)
